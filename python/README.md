@@ -1,1 +1,1 @@
-Python fundementals study notes
+Python fundamentals study notes
