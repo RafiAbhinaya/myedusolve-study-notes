@@ -1,0 +1,1 @@
+Python fundementals study notes
