@@ -1,0 +1,1 @@
+python fundamentals study note
